@@ -1,2 +1,2 @@
 # Prediction--temperature
-東京の明日の気温を予測するヅラ
+東京の気温を予測するヅラ
